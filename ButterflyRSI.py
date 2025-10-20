@@ -2,7 +2,7 @@
 Butterfly RSI v4.5 - Hybrid Recursive Self-History Engine
 ──────────────────────────────────────────────────────────────
 Developed by: Rich Sliwinski
-License: Butterfly RSI Sovereign Framework License
+License: Butterfly RSI AI Sovereign Framework License
 ──────────────────────────────────────────────────────────────
 Purpose:
 - Combines v2.5's dream consolidation with v4.0's clean architecture
