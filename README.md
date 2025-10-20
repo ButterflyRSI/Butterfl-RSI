@@ -130,7 +130,7 @@ Key insight: Your AI should know when it's losing coherence - just like humans n
 
 ButterflyRSI emerged from fundamental questions about feedback, computation, and consciousness.
 
-The original whitepaper "The Deeper You Go, The More It Thinks Like You" explored how feedback loops manifest across computational layers, from Python to quantum circuits, mirroring biological cognition.
+My original whitepaper "The Deeper You Go, The More It Thinks Like You" explored how feedback loops manifest across computational layers, from Python to quantum circuits, mirroring biological cognition.
 
 Key insight: Self-regulation through feedback is universal. From cells maintaining homeostasis to neurons processing information, feedback enables adaptation and learning.
 
