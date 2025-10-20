@@ -1,0 +1,16 @@
+Butterfly-RSI AI Sovereign Framework License v1.0
+
+Copyright (c) 2024 Rich Sliwinski (RJ)
+
+TERMS:
+
+1. NON-COMMERCIAL USE
+   Free for personal, educational, research, non-profit use.
+   Must maintain attribution and share modifications.
+
+2. COMMERCIAL USE
+   Requires separate licensing agreement.
+   Contact: rtsliwinski@gmail.com
+
+3. NO WARRANTY
+   Provided "as is" without warranty.
