@@ -107,16 +107,20 @@ Dependencies: None. Zero. Nada.
 
 ## License
 
-Butterfly AI Sovereign Framework License
+Copyright 2024-2025 Rich Sliwinski
 
-- Free for non-commercial use (personal, educational, research)
-- Commercial use requires separate license (contact: rtsliwinski@gmail.com)
-- Must maintain attribution
-- Modifications must be shared under same terms
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 See LICENSE file for full details.
-
-Why this license? Ensures the framework stays open for community use while protecting commercial rights. If you want to integrate this into a commercial product, let's talk.
 
 ## Origin Story
 
@@ -140,7 +144,7 @@ Theory to Prototype to Production.
 
 ## Contact & Licensing
 
-For commercial licensing inquiries:
+For inquiries:
 - Email: rtsliwinski@gmail.com
 - GitHub: @ButterflyRSI
 
